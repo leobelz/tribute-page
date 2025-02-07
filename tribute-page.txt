@@ -1,0 +1,193 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Garbo Tribute Page" />
+    <title>Garbo Tribute Page</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1 id="title">Agent Garbo</h1>
+      <h2 id="subtitle-1">The Double Agent Who Fooled Hitler</h2>
+    </header>
+    <main id="main">
+      <figure id="img-div">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Joan_pujol_garcia.jpg" alt="Portrait of Joan Pujol García" id="image" />
+        <figcaption id="img-caption">A portrait photo of Joan Pujol García aka. "Agent Garbo"</figcaption>
+      </figure> 
+      <article id="tribute-info">
+        <h2>Introduction:</h2>
+        <h3>Meet the Master Deceiver</h3>
+        <p>Joan Pujol García, famously known as Agent Garbo, was a master of deception whose intelligence work significantly altered the course of World War II. By crafting an elaborate network of fictional spies and feeding Nazi Germany false information, Garbo helped ensure the success of the D-Day landings. Joan Pujol García earned the nickname "Garbo" as a nod to the famous actress Greta Garbo, known for her talent and mysterious allure. British intelligence chose this codename because, like the actress, Pujol was a masterful actor on behalf of the British. His story is a unique blend of bravery, creativity, and extraordinary irony as he received military decorations from both the Nazis and the British—an unprecedented honor that has since become a legend in espionage history.</p>
+        <h2>Early Life:</h2>
+        <h3>Origins of the Double Agent</h3>
+        <p>Joan Pujol García was born on February 14, 1912, in Barcelona, Spain, where he grew up witnessing the destructive rise of fascism and communism. Disillusioned by both extremes, he developed a deep-rooted desire to oppose totalitarianism in any form. During the Spanish Civil War, he witnessed the suffering caused by political conflict, solidifying his belief in fighting oppression.</p>
+        <h3>Motivated by Conviction</h3>
+        <p>Pujol once said, “I felt I had to oppose any kind of totalitarianism,” words that reveal his drive to resist the Nazi regime. This conviction would ultimately propel him into one of the most dangerous roles in modern history: becoming a double agent.</p>
+        <h2>Becoming Agent Garbo:</h2>
+        <h3>From Rejected Volunteer to Nazi "Spy"</h3>
+        <p>Determined to contribute to the Allied cause, Pujol initially offered his services to British intelligence but was turned down. Not one to give up, he approached the Nazis instead, convincing them that he was a pro-German Spanish government official. Impressed by his dedication, they gave him the codename “Alaric” and tasked him with establishing a spy network in Britain—unaware that Pujol had no intention of aiding them.</p>
+        <h3>The Phantom Network</h3>
+        <p>Without ever leaving Spain, Pujol fabricated an entire network of British "agents." This fictional network included a Scottish nationalist, a disillusioned Welsh pacifist, and several other personalities, each with a backstory and role in the “British spy world.” His information, although sourced from tourist pamphlets, news reports, and imagination, was so well-crafted that German intelligence accepted it without question.</p>
+        <h3>Winning the Allies' Trust</h3>
+        <p>Eventually, the British recognized Pujol’s potential and accepted him as a double agent under the codename “Garbo.” Working closely with his British handler, Tomás Harris, Pujol expanded his fictional network to over 20 fabricated agents, each sending reports to the Nazis, further strengthening Garbo’s credibility. His reports became so trusted by the Germans that they relied heavily on his “intelligence” for strategic planning.</p>
+        <h2>The D-Day Deception</h2>
+        <h3>Operation Fortitude - The Great Ruse</h3>
+        <p>In 1944, Garbo’s greatest mission began: he would lead the Nazis to believe that the Allied invasion would target Pas de Calais rather than Normandy. Known as Operation Fortitude, this deception aimed to convince the Germans to hold their defenses in the wrong location.</p>
+        <h3>D-Day and the High Stakes Gamble</h3>
+        <p>In the days leading up to D-Day, Garbo sent urgent messages to the Nazis, warning them that Normandy was merely a diversion and that the real invasion would happen at Calais. The Nazis took the bait, holding back reinforcements from Normandy even as Allied forces landed. This strategic misdirection was crucial in allowing the Allies to secure a foothold in Europe, marking one of the war’s most defining moments.</p>
+        <h2>Recognition from Both Sides</h2>
+        <h3>The only man to win Honors from both sides</h3>
+        <p>Joan Pujol García, or Agent Garbo, received recognition from both sides of the war—an exceedingly rare honor. Nazi Germany awarded him the Iron Cross for his “service,” completely unaware that he was feeding them false intelligence. Around the same time, the British honored him with the Member of the Order of the British Empire (MBE) for his invaluable contribution to the Allied victory. Garbo’s dual decorations highlight the irony of his espionage success, as he cements his place as the one and only individual to win medals from both sides from WWII.</p>
+        <h2>Life After the War</h2>
+        <h3>The Faked Death and New Life</h3>
+        <p>After the war, Garbo chose a quiet life away from the spotlight. In 1949, he went so far as to fake his own death in Angola, fearing possible reprisals. He then moved to Venezuela, where he lived under a new identity, keeping his incredible story hidden for decades.</p>
+        <h3>Rediscovery of the Legend</h3>
+        <p>It wasn’t until the 1980s that Garbo’s wartime contributions became widely known. He was rediscovered by historians and finally recognized for his role in the Allied victory. In 1984, he was honored in London, at last receiving the public acknowledgment he deserved. Reflecting on his experience, he said, “In war, nothing is what it seems”—a fitting statement for a man whose life was built on elaborate deception.</p>
+        <h2>Legacy</h2>
+        <h3>Agent Garbo's Impact on Modern Espionage</h3>
+        <p>Garbo’s work in WWII remains a landmark in intelligence history, influencing espionage tactics and psychological warfare strategies to this day. His ingenious use of misinformation demonstrated that sometimes, words can be as powerful as weapons. His legacy has inspired modern intelligence work, with deception tactics studied in military schools worldwide.</p>
+        <h3>Lessons from Agent Garbo</h3>
+        <p>Garbo’s story serves as a reminder of the importance of information and strategy in warfare. By turning the Germans’ trust against them, Garbo helped to secure one of the most pivotal victories in history. His legacy endures as a symbol of how cunning and creativity can reshape the course of world events.</p>
+        <h2>Conclusion</h2>
+        <h3>Remebering Joan Pujol García</h3>
+        <p>Joan Pujol García, or Agent Garbo, exemplifies the courage, intelligence, and resilience needed to take on such a risky mission. His ability to navigate both sides of the war and gain their trust is a remarkable testament to his skill. As one of WWII’s most impactful figures, Garbo reminds us that sometimes, the greatest battles are fought not on the battlefield, but in the minds of those who hold the power.</p>
+      </article>
+      <p id="link-recommend">
+        Looking to discover more about the comical story behind Joan Pujol García? We encourage you look through his <a href="https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa" target="_blank" id="tribute-link">Wikipedia Entry</a> or this <a href="https://www.youtube.com/watch?v=ItyX8onyUsk&t=605s" target="_blank" id="tribute-link">YouTube Video</a> by Wendigoon!
+      </p>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+/* Root Variables */
+:root {
+  --primary-color: #1C1C1C;
+  --secondary-color1: #2E2E2E;
+  --secondary-color2:#8B8B8B;
+  --text-color: #FFFFFF;
+  --highlight-color:  #FFC107;
+  --font-heading: "Georgia", serif;
+  --font-body: "Segoe UI", sans-serif;
+  --font-size: 16px;
+}
+
+/* Resetting */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+  font-family: var(--font-body);
+  line-height: 1.6;
+  padding: 20px;
+  max-width: 100%;
+  margin: auto;
+}
+
+/* Header Styling */
+header {
+  text-align: center;
+}
+
+#title {
+  font-family: var(--font-heading);
+  font-size: 2.5rem;
+  color: var(--highlight-color);
+  margin: 5px 0;
+}
+
+#subtitle-1 {
+  font-family: var(--font-heading);
+  color: var(--secondary-color2);
+  margin: 5px 0 10px 0
+}
+
+/* Image and Caption Styling */
+#image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 400px;
+  border-radius: 10px;
+  border: 2px solid var(--secondary-color2);
+}
+
+#img-caption {
+  font-size: 0.9rem;
+  color: var(--secondary-color2);
+  text-align: center;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+/* Article Styling */
+article {
+  background-color: var(--secondary-color1);
+  padding: 1.5rem;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 80%
+}
+
+article h2 {
+  font-family: var(--font-heading);
+  color: var(--highlight-color);
+  font-size: 1.8rem;
+  margin: 20px 0 10px;
+  border-bottom: 1px solid var(--highlight-color);
+  padding-bottom: 5px;
+}
+
+article h3 {
+  font-family: var(--font-body);
+  color: var(--text-color);
+  font-size: 1.4rem;
+  margin: 15px 0 10px;
+  font-weight: bold;
+}
+
+article p {
+  font-size: 1rem;
+  margin: 10px 0;
+}
+
+#link-recommend {
+  text-align: center;
+  padding: 0 10%
+}
+
+/* Link Styling */
+a {
+  color: var(--highlight-color);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: var(--secondary-color2);
+  text-decoration: underline;
+}
+
+/* Phone Screens */
+@media (max-width: 500px) {
+  body {
+    padding: 10px;
+  }
+}
+
+** end of undefined **
+
